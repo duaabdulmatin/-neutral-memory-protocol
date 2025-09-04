@@ -1,0 +1,31 @@
+Neutral Memory Protocol (NMP) – License
+=======================================
+
+Copyright (C) 2025 [Your Name]
+
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+You may copy, modify, and distribute this software under the terms of the AGPL-3.0.
+
+Additional Terms for NMP:
+-------------------------
+1. The name "Neutral Memory Protocol" (NMP), its acronym, logo, and all related
+   branding are the exclusive property of [Duaa Matin].
+
+2. While the protocol and source code are free under AGPL-3.0, the NMP brand is
+   protected. You may not present forks, derivatives, or modifications as the
+   official "Neutral Memory Protocol" without written permission.
+
+3. Unauthorized commercial use of the NMP name, brand, or logo is strictly
+   prohibited and will result in strict legal action.
+
+4. Closed-source forks, services, or derivatives are a direct violation of
+   AGPL-3.0 and will be pursued legally.
+
+In short:
+- ✅ The code is free and open under AGPL-3.0.
+- ✅ You may build on it, respecting the open-source license.
+- ❌ You cannot misuse the NMP brand, name, or logo.
+- ❌ You cannot make closed-source or exploitative clones.
+- ⚖️ Violations of either code license or brand rules will be enforced.
+
+Full AGPL-3.0 license text: https://www.gnu.org/licenses/agpl-3.0.html
